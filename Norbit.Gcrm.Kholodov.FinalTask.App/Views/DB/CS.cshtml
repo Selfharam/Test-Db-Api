@@ -1,0 +1,25 @@
+﻿@using Newtonsoft.Json
+@using Norbit.Gcrm.Kholodov.Final.App.Models
+
+@*Отображает результат запроса, сделанного из C# кода*@
+
+@{
+    string result = ViewBag.Message;
+    TransactionEntity transaction = JsonConvert.DeserializeObject<TransactionEntity>(result);
+}
+
+<!doctype html>
+<html>
+<head>
+    <title>Final</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width">
+</head>
+<body>
+    <p>Последней сделка: </p>
+    <p>Дата: </p>
+    <label>@transaction.Created.ToLocalTime()</label>
+    <p>Сумма: </p>
+<label>@transaction.Amount</label>
+</body>
+</html>

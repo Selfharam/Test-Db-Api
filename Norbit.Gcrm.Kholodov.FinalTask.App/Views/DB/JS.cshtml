@@ -1,0 +1,47 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>JS</title>
+</head>
+<body id="body">
+    <p>Последня сделка: </p>
+    <p>Дата: </p>
+    <label id="labelDate"></label>
+    <p>Сумма: </p>
+    <label id="labelAmount"></label>
+
+    <script type="text/javascript">
+    ShowResults();
+
+        async function ShowResults() {
+            let response = await fetch("/DbController/Last",
+            {
+                method: 'GET',
+                headers: { "Accept": "application/json" },
+                credentials: 'same-origin'
+                });
+        if (response.ok === true) {
+            const json = await response.text();
+            const date = document.getElementById("labelDate");
+            const amount = document.getElementById("labelAmount");
+            
+            JSON.parse(json, function (key, value) {
+                if (key == 'created')
+                {
+                    date.innerHTML = new Date(value).toLocaleDateString();
+                }
+                if (key == 'amount')
+                {
+                    amount.innerHTML = value.toString();
+                }
+            });
+        } else {
+            alert("Ошибка HTML: " + response.status);
+        }
+    }
+    </script>
+</body>
+</html> 

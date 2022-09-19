@@ -1,0 +1,11 @@
+C:\Prog\VSprojects\Probation\Belgorod\Anton.Kholodov\FinalTask\Norbit.Gcrm.Kholodov.FinalTask.ConsoleApp\bin\Debug\Norbit.Gcrm.Kholodov.FinalTask.ConsoleApp.exe.config
+C:\Prog\VSprojects\Probation\Belgorod\Anton.Kholodov\FinalTask\Norbit.Gcrm.Kholodov.FinalTask.ConsoleApp\bin\Debug\Norbit.Gcrm.Kholodov.FinalTask.ConsoleApp.exe
+C:\Prog\VSprojects\Probation\Belgorod\Anton.Kholodov\FinalTask\Norbit.Gcrm.Kholodov.FinalTask.ConsoleApp\bin\Debug\Norbit.Gcrm.Kholodov.FinalTask.ConsoleApp.pdb
+C:\Prog\VSprojects\Probation\Belgorod\Anton.Kholodov\FinalTask\Norbit.Gcrm.Kholodov.FinalTask.ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Prog\VSprojects\Probation\Belgorod\Anton.Kholodov\FinalTask\Norbit.Gcrm.Kholodov.FinalTask.ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Prog\VSprojects\Probation\Belgorod\Anton.Kholodov\FinalTask\Norbit.Gcrm.Kholodov.FinalTask.ConsoleApp\obj\Debug\Norbit.Gcrm.Kholodov.FinalTask.ConsoleApp.csproj.AssemblyReference.cache
+C:\Prog\VSprojects\Probation\Belgorod\Anton.Kholodov\FinalTask\Norbit.Gcrm.Kholodov.FinalTask.ConsoleApp\obj\Debug\Norbit.Gcrm.Kholodov.FinalTask.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Prog\VSprojects\Probation\Belgorod\Anton.Kholodov\FinalTask\Norbit.Gcrm.Kholodov.FinalTask.ConsoleApp\obj\Debug\Norbit.Gcrm.Kholodov.FinalTask.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Prog\VSprojects\Probation\Belgorod\Anton.Kholodov\FinalTask\Norbit.Gcrm.Kholodov.FinalTask.ConsoleApp\obj\Debug\Norbit.Gcrm.Kholodov.FinalTask.ConsoleApp.csproj.CopyComplete
+C:\Prog\VSprojects\Probation\Belgorod\Anton.Kholodov\FinalTask\Norbit.Gcrm.Kholodov.FinalTask.ConsoleApp\obj\Debug\Norbit.Gcrm.Kholodov.FinalTask.ConsoleApp.exe
+C:\Prog\VSprojects\Probation\Belgorod\Anton.Kholodov\FinalTask\Norbit.Gcrm.Kholodov.FinalTask.ConsoleApp\obj\Debug\Norbit.Gcrm.Kholodov.FinalTask.ConsoleApp.pdb
